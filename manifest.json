@@ -1,0 +1,73 @@
+{
+    "name": "Hamza kaaloul",
+    "short_name": "Hamza Kl",
+    "description": "Description of your PWA",
+    "scope": "/cv/",
+    "start_url": "/cv/index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#0d6efd",
+    "theme_color": "#6c757d",
+    "splach_pages": null,
+    "prefer_related_applications": true,
+    "icons": [
+        {
+            "src": "/cv/assets/img/icon/2480.png",
+            "sizes": "2480x2480",
+            "type": "image/png"
+        },
+        {
+            "src": "/cv/assets/img/icon/1240.png",
+            "sizes": "1240x1240",
+            "type": "image/png"
+        },
+        {
+            "src": "/cv/assets/img/icon/757.png",
+            "sizes": "757x757",
+            "type": "image/png"
+        },
+        {
+            "src": "/cv/assets/img/icon/600.png",
+            "sizes": "600x600",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/cv/assets/img/icon/300.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/cv/assets/img/icon/284.png",
+            "sizes": "284x284",
+            "type": "image/png"
+        },
+        {
+            "src": "/cv/assets/img/icon/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/cv/assets/img/icon/192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/cv/assets/img/icon/96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/cv/assets/img/icon/64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        }
+        ,
+        {
+            "src": "/cv/assets/img/icon/44.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        }
+    ]
+}
